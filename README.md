@@ -1,2 +1,2 @@
-# frontend_test
-frontend test with cypress and javascript
+# automated_tests
+Automated frontend and backend tests

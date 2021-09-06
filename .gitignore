@@ -1,7 +1,8 @@
-*.cypress/downloads
-*.cypress/fixtures
-*.cypress/integration/getting-started 
-*.cypress/downloads/advanced-examples
-*.cypress/plugins
-*.cypress/support
-*.node_modules
+frontend-automation-tests/cypress/downloads
+frontend-automation-tests/cypress/fixtures
+frontend-automation-tests/cypress/integration/1-getting-started 
+frontend-automation-tests/cypress/integration/2-advanced-examples
+frontend-automation-tests/cypress/plugins
+frontend-automation-tests/cypress/support
+frontend-automation-tests/node_modules
+
