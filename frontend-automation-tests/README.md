@@ -1,4 +1,4 @@
-Frontend test with Cypress
+Frontend test with Cypress and Javasript
 
 Requirements:
 
